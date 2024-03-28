@@ -1,4 +1,4 @@
-package com.fortune.app;
+package com.fortune.myjavaapp;
 
 /**
  * Hello world!
