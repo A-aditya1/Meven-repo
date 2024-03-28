@@ -3,11 +3,11 @@ package com.fortune.app;
 /**
  * Hello world!
  */
-public class App {
+public class myapp {
 
     private static final String MESSAGE = "Hello World!";
 
-    public App() {}
+    public myapp() {}
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
